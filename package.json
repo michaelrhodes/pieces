@@ -1,0 +1,13 @@
+{
+  "name": "pieces",
+  "author": "Michael Rhodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "dexy": "github:michaelrhodes/dexy"
+  },
+  "scripts": {
+    "test": "dexy test/sync"
+  }
+}
